@@ -8,6 +8,18 @@ and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 This changelog is generated automatically based on [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).
 
+## [3.2.0](https://github.com/terraform-google-modules/terraform-google-composer/compare/v3.1.0...v3.2.0) (2022-06-23)
+
+
+### Features
+
+* add network tags support for v2 ([#48](https://github.com/terraform-google-modules/terraform-google-composer/issues/48)) ([a4644c0](https://github.com/terraform-google-modules/terraform-google-composer/commit/a4644c048f647417b4c491de6cb813abe2d7eaec))
+
+
+### Bug Fixes
+
+* dynamic master authorized networks blocks ([#47](https://github.com/terraform-google-modules/terraform-google-composer/issues/47)) ([a61f6a7](https://github.com/terraform-google-modules/terraform-google-composer/commit/a61f6a7c4a84173584b33e62c3dc690112285aea))
+
 ## [3.1.0](https://github.com/terraform-google-modules/terraform-google-composer/compare/v3.0.0...v3.1.0) (2022-04-19)
 
 
